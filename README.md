@@ -1,5 +1,11 @@
 # 💫 About Me:
-### Hi, I'm A B A N! <br><br>👩🏻‍💻 WebDesigner sharing my journey and learning in web designing.<br>🎓 Currently learning about UI/UX.<br>✨ Working on a small chat page.<br>☘️ and I'm open for new projects.<br>      
+### Hi, I'm A B A N! <br>
+👩🏻‍💻 WebDesigner sharing my journey and learning in web designing.<br>
+🎲 I'm member of [Sector Team](https://discord.gg/sector).</br>
+🔮 and designer of [hyogo dashboard](https://hyogo-bot.com/dashboard)</br>
+🎓Currently learning about UI/UX.<br>
+✨ Working on a small chat page.<br>
+☘️ and I'm open for new projects.<br>      
 
 
 ## 🌐 Socials:
