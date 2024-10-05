@@ -6,4 +6,4 @@
 💜 And this is my Discord ID (l.aban.l) in case if you needed to contact me :)</br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abansfp&show_icons=true)
+![abansfp's Stats](https://github-readme-stats.vercel.app/api?username=abansfp&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
